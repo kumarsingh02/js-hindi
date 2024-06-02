@@ -1,11 +1,11 @@
 let score = "33"
 
-console.log(typeof score);
-console.log(typeof(score));
+//console.log(typeof score);
+//console.log(typeof(score));
 
 
 let valuInNumber = Number(score)
-console.log(typeof valuInNumber);
+//console.log(typeof valuInNumber);
 
 let isLoggedIn = true
 
@@ -19,6 +19,29 @@ let someNumber = 33
 
 let stringNumber = String(someNumber)
 
-console.log(stringNumber);
-console.log(typeof stringNumber);
+//log(stringNumber);
+//console.log(typeof stringNumber);
+
+
+
+
+
+
+//*************************************************** opretions 
+
+
+let value = 3 
+let negValue = -value
+
+//console.log(negValue);
+
+
+
+let str1 = " hello"
+
+let str2 = " Ubi-Fi"
+
+let str3 = str1 + str2
+
+console.log(str3);
 
